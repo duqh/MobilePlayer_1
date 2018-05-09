@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">123影音</string>
+
+    <string name="app_name2">快播</string>
+    <string name="player_name">手机影音2(牛叉)</string>
+    <string name="player_name2">手机影音2(vitamio)</string>
+    <string name="huanchun">缓存中...30kb/s</string>
+    <string name="jiazai">玩命加载中...30kb/s</string>
+    <string name="thubail_with">50</string>
+    <string name="thubail_higt">50</string>
+    <string name="dialog_msg">当您播放视频，有声音没有画面的时候，请切换万能播放器播放</string>
+    <string name="dialog_tle">系统播放器提醒您</string>
+    <string name="ok">确定</string>
+    <string name="del">取消</string>
+    <string name="bdsp">本地视频</string>
+    <string name="bdyp">本地音频</string>
+    <string name="wlsp">网络视频</string>
+    <string name="wlyp">网络音乐</string>
+</resources>
